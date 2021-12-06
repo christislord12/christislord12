@@ -1,0 +1,3 @@
+Bitcoin Donations: 3Lw6ik2ADRJVxq9HPZTD2f4qyipyki1vME 
+
+Bitcoin Cash Donations: bitcoincash:pqh6qyhzcq86jqrvtlcdgf0wtr9m4065qg5mtnc3jj
